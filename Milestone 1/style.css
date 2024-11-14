@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 150px;
@@ -13,19 +13,19 @@ body {
     box-shadow: 0 0 20px rgba(112, 24, 134, 0.1);
 }
 .left-section{
-    background-color: #2c2c2c;
+    background-color: black;
     color: white;
     padding: 20px;
     width: 35%;
     text-align: center;
-    border-right: 5px solid #e63946;
+    border-right: 5px solid cyan;
 }
 .profile-picture{
     width: 150px;
     height: 154px;
     margin-top: 10%;
     border-radius: 50%;
-    border: 5px solid #e63946;
+    border: 5px solid cyan;
     margin-bottom: 20px;
 }
 h1{
@@ -40,7 +40,7 @@ h3{
     margin: 20px 0 10px;
     color: black;
     border-radius: 10px;
-    box-shadow: 0 0 15px #e63946;
+    box-shadow: 0 0 15px cyan;
     margin-top: 5%;
     margin-bottom: 5%;
 }
@@ -57,7 +57,7 @@ ul li{
     width: 65%;
 }
 button{
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     border-radius: 10px;
     box-shadow: 0 0 15px black;
     cursor: pointer;
@@ -65,5 +65,5 @@ button{
     font-size: 18px;
 }
 button:hover{
-    background-color: #ff737c;
+    background-color: cyan;
 }
